@@ -3,20 +3,7 @@
 Landing Page responsiva para cualquier tamaño de pantalla.
 Hecha con HTML, Tailwind CSS y Javascript.
 
-## Imágenes de la página web
-
-### Vista web
-
-![Alt text](/img/screenshots-project/landing-web-1.png?raw=true)
-![Alt text](/img/screenshots-project/landing-web-2.png?raw=true)
-
-### Vista móvil
-
-![Alt text](/img/screenshots-project/landing-mobile-1.png?raw=true)
-![Alt text](/img/screenshots-project/landing-mobile-2.png?raw=true)
-![Alt text](/img/screenshots-project/landing-mobile-3.png?raw=true)
-![Alt text](/img/screenshots-project/landing-mobile-4.png?raw=true)
-![Alt text](/img/screenshots-project/landing-mobile-5.png?raw=true)
+Puedes entrar a la página con el siguiente link: https://jorgecoronelg.github.io/portafolio-landing-manage/
 
 ## Uso
 
